@@ -5,7 +5,7 @@ import emailjs from '@emailjs/browser';
 const phone = '+91 XXXXXXXXXX';
 const email = 'gradgearprojects@gmail.com';
 const website = 'https://www.gradgear.42web.io';
-const instagram = 'https://www.instagram.com/vignesh_kadiri/';
+const instagram = 'https://www.instagram.com/gradgear_projects/';
 
 const projectTypes = [
   { value: "", label: "Select Project Type (Optional)" },
