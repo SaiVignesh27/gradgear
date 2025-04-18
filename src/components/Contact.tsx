@@ -2,7 +2,7 @@ import React, { useState, useRef } from 'react';
 import { Phone as PhoneIcon, Mail as MailIcon, Globe as GlobeIcon, Instagram as InstagramIcon, Info as InfoIcon } from 'lucide-react';
 import emailjs from '@emailjs/browser';
 
-const phone = '+91 XXXXXXXXXX';
+const phone = '+91 9951399633';
 const email = 'gradgearprojects@gmail.com';
 const website = 'https://www.gradgear.42web.io';
 const instagram = 'https://www.instagram.com/gradgear_projects/';
